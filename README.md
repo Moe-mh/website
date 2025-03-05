@@ -2,4 +2,4 @@ Just a personal website created in a leisure time!
 
 
 
-https://moemh.netlify.app/
+(https://moe-mh.github.io/website/)
